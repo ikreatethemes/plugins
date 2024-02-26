@@ -1,0 +1,585 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Ikreate Demo Importer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-01-25 11:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: ikreate-demo-importer"
+
+#: wordpress-importer/class-wp-import.php:678
+#, php-format
+msgid "%1$s &#8220;%2$s&#8221; already exists."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:316
+msgid "- Select -"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1321
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: classes/class-demo-importer.php:115
+msgid "Activate"
+msgstr ""
+
+#: ikreate-demo-importer.php:152 ikreate-demo-importer.php:166
+msgid "All"
+msgstr ""
+
+#: ikreate-demo-importer.php:435
+msgid "All content imported"
+msgstr ""
+
+#: ikreate-demo-importer.php:407
+msgid "All demo files downloaded"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:153
+msgid "All done."
+msgstr ""
+
+#: ikreate-demo-importer.php:912
+msgid "All done. Have fun!"
+msgstr ""
+
+#: ikreate-demo-importer.php:269
+msgid "All in one migration"
+msgstr ""
+
+#: ikreate-demo-importer.php:384
+msgid "All the required plugins installed and activated successfully"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:295
+msgid "as a new user:"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:243
+msgid "Assign Authors"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:305
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ikreate-demo-importer.php:236
+msgid "Buy Now"
+msgstr ""
+
+#: ikreate-demo-importer.php:322
+msgid "Cancel"
+msgstr ""
+
+#: ikreate-demo-importer.php:302
+msgid ""
+"Check this option if importing demo fails multiple times. Excluding image "
+"will make the demo import process super quick."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1337
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1077
+msgid "Could not create temporary file."
+msgstr ""
+
+#: ikreate-demo-importer.php:463
+msgid "Customizer settings imported"
+msgstr ""
+
+#: ikreate-demo-importer.php:360
+msgid "Database reset complete"
+msgstr ""
+
+#: ikreate-demo-importer.php:910
+msgid "Database was not reset"
+msgstr ""
+
+#: ikreate-demo-importer.php:412
+msgid "Demo import process failed. Demo files can not be downloaded"
+msgstr ""
+
+#: ikreate-demo-importer.php:440
+msgid "Demo import process failed. No content file found"
+msgstr ""
+
+#: ikreate-demo-importer.php:330
+msgid "Demo Import Progress"
+msgstr ""
+
+#: wordpress-importer/parsers/class-wxr-parser.php:46
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:259
+msgid "Download and import file attachments"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1139
+msgid "Downloaded file has incorrect size"
+msgstr ""
+
+#: ikreate-demo-importer.php:392
+msgid "Downloading demo files"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Easily imports your content, customizer, widgets and theme settings with one "
+"click."
+msgstr ""
+
+#: classes/class-demo-importer.php:144 classes/class-demo-importer.php:192
+#: classes/class-demo-importer.php:236
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: classes/class-customizer-importer.php:33
+#: classes/class-customizer-importer.php:38
+msgid ""
+"Error importing settings! Please check that you uploaded a customizer export "
+"file."
+msgstr ""
+
+#: classes/class-customizer-importer.php:43
+msgid ""
+"Error importing settings! The settings you uploaded are not for the current "
+"theme."
+msgstr ""
+
+#: classes/class-demo-importer.php:250
+msgid "Error!! Plugin not activated."
+msgstr ""
+
+#: ikreate-demo-importer.php:301
+msgid "Exclude Images"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:375
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:546
+#: wordpress-importer/class-wp-import.php:794
+#, php-format
+msgid "Failed to import %1$s %2$s"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:755
+#, php-format
+msgid "Failed to import %1$s &#8220;%2$s&#8221;"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:637
+#, php-format
+msgid "Failed to import &#8220;%1$s&#8221;: Invalid post type %2$s"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:215
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:434
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:485
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1015
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ikreate-demo-importer.php:274
+msgid ""
+"For your website to look exactly like the demo,the import process will "
+"install and activate the following plugin if they are not installed or "
+"activated."
+msgstr ""
+
+#: ikreate-demo-importer.php:912
+msgid "Go Back"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:153
+msgid "Have fun!"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1336
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/ikreatethemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://ikreatethemes.com/"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:246
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#. Name of the plugin
+msgid "Ikreate Demo Importer"
+msgstr ""
+
+#: ikreate-demo-importer.php:93
+msgid "Ikreate One Click Demo Install"
+msgstr ""
+
+#. Author of the plugin
+msgid "ikreatethemes"
+msgstr ""
+
+#: ikreate-demo-importer.php:93
+msgid "IkreateThemes Demo Importer"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:256
+msgid "Import Attachments"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:277
+msgid "Import author:"
+msgstr ""
+
+#: ikreate-demo-importer.php:321
+msgid "Import Demo"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1314
+msgid "Import WordPress"
+msgstr ""
+
+#: ikreate-demo-importer.php:319
+#, php-format
+msgid ""
+"IMPORTANT!! Please make sure that there is not any red indication in the %s "
+"page for the demo import to work properly."
+msgstr ""
+
+#: classes/class-widget-importer.php:149
+msgid "Imported"
+msgstr ""
+
+#: classes/class-widget-importer.php:152
+msgid "Imported to Inactive"
+msgstr ""
+
+#: ikreate-demo-importer.php:437
+msgid "Importing customizer settings"
+msgstr ""
+
+#: ikreate-demo-importer.php:409
+msgid "Importing posts, pages and medias. It may take a bit longer time"
+msgstr ""
+
+#: ikreate-demo-importer.php:497
+msgid "Importing Widgets"
+msgstr ""
+
+#: classes/class-demo-importer.php:112
+msgid "Install"
+msgstr ""
+
+#: ikreate-demo-importer.php:240
+msgid "Install Demo"
+msgstr ""
+
+#: classes/class-demo-importer.php:118
+msgid "Installed"
+msgstr ""
+
+#: ikreate-demo-importer.php:867
+msgid "Installed and Active"
+msgstr ""
+
+#: ikreate-demo-importer.php:870
+msgid "Installed but Not Active"
+msgstr ""
+
+#: ikreate-demo-importer.php:366
+msgid "Installing required plugins"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1033
+msgid "Invalid file type"
+msgstr ""
+
+#: ikreate-demo-importer.php:312
+msgid ""
+"It is always recommended to reset the database for a complete demo import."
+msgstr ""
+
+#: ikreate-demo-importer.php:251
+msgid ""
+"It looks like the config file for the demos is missing or conatins errors!. "
+"Demo install can\\'t go futher!"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:948
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:941
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ikreate-demo-importer.php:490
+msgid "Menus saved"
+msgstr ""
+
+#: classes/class-demo-importer.php:216
+msgid "Missing File Location."
+msgstr ""
+
+#: ikreate-demo-importer.php:465
+msgid "No Customizer settings found"
+msgstr ""
+
+#: ikreate-demo-importer.php:492
+msgid "No menus saved"
+msgstr ""
+
+#: ikreate-demo-importer.php:386
+msgid "No plugin required to install"
+msgstr ""
+
+#: classes/class-widget-importer.php:157
+msgid "No Title"
+msgstr ""
+
+#: ikreate-demo-importer.php:517
+msgid "No Widgets found"
+msgstr ""
+
+#: ikreate-demo-importer.php:864
+msgid "Not Installed"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:307
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:292
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ikreate-demo-importer.php:219
+msgid "Premium"
+msgstr ""
+
+#: ikreate-demo-importer.php:908
+msgid "Preparing to import demo"
+msgstr ""
+
+#: ikreate-demo-importer.php:228
+msgid "Preview Demo"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:154
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1145
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1127
+msgid "Remote server did not respond"
+msgstr ""
+
+#. 1: The HTTP error message. 2: The HTTP error code.
+#: wordpress-importer/class-wp-import.php:1115
+#, php-format
+msgid "Remote server returned the following unexpected result: %1$s (%2$s)"
+msgstr ""
+
+#. 1: The WordPress error message. 2: The WordPress error code.
+#: wordpress-importer/class-wp-import.php:1099
+#, php-format
+msgid "Request failed due to an error: %1$s (%2$s)"
+msgstr ""
+
+#: ikreate-demo-importer.php:273
+msgid "Required Plugins"
+msgstr ""
+
+#: ikreate-demo-importer.php:310
+msgid "Reset Website"
+msgstr ""
+
+#: ikreate-demo-importer.php:909
+msgid "Reseting database"
+msgstr ""
+
+#: ikreate-demo-importer.php:311
+msgid ""
+"Reseting the website will delete all your post, pages, custom post types, "
+"categories, taxonomies, images and all other customizer and theme option "
+"settings."
+msgstr ""
+
+#: ikreate-demo-importer.php:469
+msgid "Setting primary menu"
+msgstr ""
+
+#: classes/class-widget-importer.php:58
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: classes/class-widget-importer.php:75
+msgid "Site does not support widget"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:109
+#: wordpress-importer/class-wp-import.php:118
+#: wordpress-importer/class-wp-import.php:169
+#: wordpress-importer/class-wp-import.php:173
+#: wordpress-importer/class-wp-import.php:182
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1177
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: classes/class-demo-importer.php:130 classes/class-demo-importer.php:177
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:263
+msgid "Submit"
+msgstr ""
+
+#: ikreate-demo-importer.php:319
+msgid "System Status"
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:174
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:110
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1192
+msgid "The uploaded file could not be moved"
+msgstr ""
+
+#: ikreate-demo-importer.php:911
+msgid ""
+"There was an error in importing demo. Please reload the page and try again"
+msgstr ""
+
+#: wordpress-importer/parsers/class-wxr-parser.php:45
+#: wordpress-importer/parsers/class-wxr-parser-simplexml.php:33
+#: wordpress-importer/parsers/class-wxr-parser-simplexml.php:41
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: wordpress-importer/parsers/class-wxr-parser-regex.php:102
+#: wordpress-importer/parsers/class-wxr-parser-simplexml.php:46
+#: wordpress-importer/parsers/class-wxr-parser-simplexml.php:52
+#: wordpress-importer/parsers/class-wxr-parser-xml.php:107
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ikreate-demo-importer.php:270
+msgid ""
+"This process will install all the required plugins, import contents and "
+"setup customizer and theme options."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:190
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:244
+msgid ""
+"To make it simpler for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site, such as your primary administrator account."
+msgstr ""
+
+#: ikreate-demo-importer.php:912
+msgid "View your Website"
+msgstr ""
+
+#: ikreate-demo-importer.php:269
+#, php-format
+msgid ""
+"We recommend you backup your website content before attempting to import the "
+"demo so that you can recover your website if something goes wrong. You can "
+"use %s plugin for it."
+msgstr ""
+
+#: ikreate-demo-importer.php:113
+#, php-format
+msgid "Welcome to the Ikreate Demo Importer for %s"
+msgstr ""
+
+#: classes/class-widget-importer.php:95
+msgid "Widget already exists"
+msgstr ""
+
+#: classes/class-widget-importer.php:23
+msgid "Widget data is not available"
+msgstr ""
+
+#: ikreate-demo-importer.php:515
+msgid "Widgets Imported"
+msgstr ""
+
+#: ikreate-demo-importer.php:912
+msgid "Your website has been successfully setup."
+msgstr ""
+
+#: wordpress-importer/class-wp-import.php:1134
+msgid "Zero size file downloaded"
+msgstr ""
